@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vishal Fulkar
 
-### A passionate Javascript developer
+### A passionate MERN Stack Developer
 
 
 
